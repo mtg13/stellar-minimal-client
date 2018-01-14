@@ -54,7 +54,7 @@ The "Get Address Balance" button will query the Stellar network to retrieve the 
 
 Enter your source address, source secret, destination address and amount and click on the "Execute Transfer" button. This will transfer the specified amount from the source address to the destination address. ***There will be no other confirmations***. If the destination account does not exist yet, you will receive a prompt letting you know that it will be created for you if you choose. In this case, you can choose to abort the operation. Please make sure to transfer the minimum amount required to create a new account (20 XLM as of 13 JAN 2018).
 
-If the transaction is successful, a transaction ID will be displayed in the textbox underneath. You may look up this transaction using a [stellar explorer][https://stellarchain.io/].
+If the transaction is successful, a transaction ID will be displayed in the textbox underneath. You may look up this transaction using a [stellar explorer](https://stellarchain.io/).
 
 Network fees (100 stroops (0.00001 XLM) as of 13 JAN 2018) are deducted from the source account. This is mandated by the network - read more here: https://www.stellar.org/developers/guides/concepts/fees.html
 
